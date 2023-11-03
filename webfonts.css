@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "LINESeedJP";
+  src:
+    url("/fonts/LINESeedJP_OTF_Rg.woff2") format("woff2"),
+    url("/fonts/LINESeedJP_A_TTF_Th.ttf") format("truetype");
+}
+
 /* thin-100 */
 @font-face {
   font-family: "LINESeedJP";
