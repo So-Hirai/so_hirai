@@ -1,33 +1,38 @@
 /* thin-100 */
 @font-face {
-  font-family: "LINESeedJP_OTF";
+  font-family: "LINESeedJP";
   src: url("/fonts/LINESeedJP_OTF_Th.woff2") format("woff2");
+  src: url("/fonts/LINESeedJP_A_TTF_Th.ttf") format("truetype");
   font-weight: 100;
   font-style: normal;
 }
 
 /* Regular-400 */
 @font-face {
-  font-family: "LINESeedJP_OTF";
+  font-family: "LINESeedJP";
   src: url("/fonts/LINESeedJP_OTF_Rg.woff2") format("woff2");
+  src: url("/fonts/LINESeedJP_A_TTF_Rg.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 /* Bold-700 */
 @font-face {
-  font-family: "LINESeedJP_OTF";
+  font-family: "LINESeedJP";
   src: url("/fonts/LINESeedJP_OTF_Bd.woff2") format("woff2");
+  src: url("/fonts/LINESeedJP_A_TTF_Bd.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 
 /* ExtraBold-900 */
 @font-face {
-  font-family: "LINESeedJP_OTF";
+  font-family: "LINESeedJP";
   src: url("/fonts/LINESeedJP_OTF_Eb.woff2") format("woff2");
+  src: url("/fonts/LINESeedJP_A_TTF_Eb.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
+}
 }
 
 body {
